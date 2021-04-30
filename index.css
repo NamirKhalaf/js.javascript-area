@@ -1,0 +1,25 @@
+body {
+    margin: 100px;
+    color: blue;
+    background-color: rgb(151, 218, 229);
+   
+}
+input {
+    color:black;
+    border-color: blue;
+    border-radius: 20%;
+    background-color: rgb(218, 218, 129);
+}
+button {
+    color:black;
+    border-color: blue;
+    border-radius: 20%;
+    background-color:  rgb(218, 218, 129);
+}
+.output {
+    color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: blue;
+}
+
